@@ -1,0 +1,19 @@
+body {background-color: #d3d3d3;}
+
+.acao {
+    background-color:  #FFFFFF ;
+    margin-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div .input {
+     width: 214px;
+     height: 25px;
+}
+
+div .success {
+    background-color: #000000;
+    height: 25px;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
